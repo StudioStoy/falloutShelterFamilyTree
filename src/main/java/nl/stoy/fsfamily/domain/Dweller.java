@@ -11,9 +11,11 @@ public class Dweller {
     private String firstName;
     private String lastName;
     private String gender;
-    private List<Long> parents;
+    private List<Long> parentsId;
+    private Dweller father;
+    private Dweller mother;
 
-    public Dweller(long id, String firstName, String lastName, long gender, List<Long> parents) {
+    public Dweller(long id, String firstName, String lastName, long gender, List<Long> parentsId) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -24,8 +26,8 @@ public class Dweller {
             this.gender = "male";
         }
 
-        if (parents.get(0) != -1 && parents.get(1) != -1) {
-            this.parents = parents;
+        if (parentsId.get(0) != -1 && parentsId.get(1) != -1) {
+            this.parentsId = parentsId;
         }
     }
 
@@ -36,7 +38,7 @@ public class Dweller {
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", gender='" + gender + '\'' +
-                ", parents=" + parents +
+                ", parentsId=" + parentsId +
                 '}';
     }
 }
