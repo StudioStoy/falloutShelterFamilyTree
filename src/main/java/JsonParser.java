@@ -1,5 +1,7 @@
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -23,16 +25,23 @@ public class JsonParser {
             JSONArray dwellers = (JSONArray) dwellersObject.get("dwellers");
 
             for (int i=0; i<dwellers.size(); i++) {
+                List<Long> parents = new ArrayList<>();
                 JSONObject dwellerJSON = (JSONObject) dwellers.get(i);
 
                 long id = (long) dwellerJSON.get("serializeId");
                 String firstName = (String) dwellerJSON.get("name");
                 String lastName = (String) dwellerJSON.get("lastName");
+                long gender = (long) dwellerJSON.get("gender");
 
+                JSONObject relations = (JSONObject) dwellerJSON.get("relations");
+                JSONArray ascendants = (JSONArray) relations.get("ascendants");
+                for (int parent = 0; parent <= 1; parent++) {
+                    parents.add((Long) ascendants.get(parent));
+                }
 
-                System.out.println(id + ": " + firstName + " " + lastName);
+                Dweller dweller = new Dweller(id, firstName, lastName, gender, parents);
 
-                Dweller dweller = new Dweller(id, firstName, lastName)
+                System.out.println(dweller);
             }
         } catch (IOException | ParseException e) {
             e.printStackTrace();

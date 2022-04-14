@@ -9,9 +9,9 @@ public class Dweller {
     private String firstName;
     private String lastName;
     private String gender;
-    private List<Integer> parents;
+    private List<Long> parents;
 
-    public Dweller(long id, String firstName, String lastName, int gender, List<Integer> parents) {
+    public Dweller(long id, String firstName, String lastName, long gender, List<Long> parents) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -25,5 +25,16 @@ public class Dweller {
         if (parents.get(0) != -1 && parents.get(1) != -1) {
             this.parents = parents;
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Dweller{" +
+                "id=" + id +
+                ", firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", gender='" + gender + '\'' +
+                ", parents=" + parents +
+                '}';
     }
 }
