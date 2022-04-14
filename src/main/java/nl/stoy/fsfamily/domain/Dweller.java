@@ -33,12 +33,18 @@ public class Dweller {
 
     @Override
     public String toString() {
-        return "nl.stoy.fsfamily.domain.Dweller{" +
-                "id=" + id +
-                ", firstName='" + firstName + '\'' +
-                ", lastName='" + lastName + '\'' +
-                ", gender='" + gender + '\'' +
-                ", parentsId=" + parentsId +
-                '}';
+        String str = "";
+        if (mother == null && father == null) {
+            str = "\nid= " + id +
+                    ", name= " + firstName + " " + lastName +
+                    ", gender=" + gender;
+        } else {
+            str = "\nid= " + id +
+                    ", name=" + firstName + " " + lastName +
+                    ", gender=" + gender +
+                    ", Father= " +father.getFirstName() + " " +father.getLastName()+
+                    ", Mother= " +mother.getFirstName() + " " +mother.getLastName();
+        }
+        return str;
     }
 }

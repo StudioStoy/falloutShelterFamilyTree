@@ -416,8 +416,8 @@
           "partner": -1,
           "lastPartner": -1,
           "ascendants": [
-            17,
-            23,
+            6,
+            3,
             -1,
             -1,
             -1,
@@ -525,8 +525,8 @@
           "partner": -1,
           "lastPartner": -1,
           "ascendants": [
-            -1,
-            -1,
+            8,
+            2,
             -1,
             -1,
             -1,
@@ -643,7 +643,7 @@
             -1
           ]
         },
-        "gender": 1,
+        "gender": 2,
         "stats": {
           "stats": [
             {
@@ -717,7 +717,5930 @@
         "lastChildBorn": -1,
         "rarity": "Normal",
         "deathTime": -1
-      }],
+      },
+      {
+        "serializeId": 22,
+        "name": "Baby",
+        "lastName": "from fnaf",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 145,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 11,
+          "maxHealth": 145
+        },
+        "experience": {
+          "experienceValue": 155971,
+          "currentLevel": 11,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            14,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961621,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "08",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Magnum_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 551,
+        "lastChildBorn": 511078.28,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 31,
+        "name": "Ballora",
+        "lastName": "From fnaf",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 123,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 7,
+          "maxHealth": 123
+        },
+        "experience": {
+          "experienceValue": 78585,
+          "currentLevel": 7,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            22,
+            -1,
+            -1,
+            1,
+            14
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294958790,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "06",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 379,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 18,
+        "name": "Beau",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 118.62,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 12,
+          "maxHealth": 143.5
+        },
+        "experience": {
+          "experienceValue": 170309,
+          "currentLevel": 12,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294897386,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "20",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 123,
+        "lastChildBorn": 546275.26,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 28,
+        "name": "Bobby",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 101.12,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 8,
+          "maxHealth": 126
+        },
+        "experience": {
+          "experienceValue": 86036,
+          "currentLevel": 8,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 3,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "17",
+        "equipedOutfit": {
+          "id": "HandymanJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 123,
+        "lastChildBorn": 546271.57,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 45,
+        "name": "Brandon",
+        "lastName": "Lindemann",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 112,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 112
+        },
+        "experience": {
+          "experienceValue": 22102,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            32,
+            -1,
+            -1,
+            8,
+            14
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294965454,
+        "hairColor": 4285027386,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "11",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "032Pistol",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 78,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 33,
+        "name": "Bread",
+        "lastName": "eate R",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 101.12,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 8,
+          "maxHealth": 126
+        },
+        "experience": {
+          "experienceValue": 96965,
+          "currentLevel": 8,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 6,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290221438,
+        "hairColor": 4283848802,
+        "outfitColor": 4284722122,
+        "pendingExperienceReward": 0,
+        "hair": "21",
+        "equipedOutfit": {
+          "id": "SwingDress",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 123,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 9,
+        "name": "bread",
+        "lastName": "maker",
+        "happiness": {
+          "happinessValue": 96.8
+        },
+        "health": {
+          "healthValue": 126,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 8,
+          "maxHealth": 126
+        },
+        "experience": {
+          "experienceValue": 93795,
+          "currentLevel": 8,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 2,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 1,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4287918423,
+        "hairColor": 4288567131,
+        "outfitColor": 4294197569,
+        "pendingExperienceReward": 0,
+        "hair": "09",
+        "equipedOutfit": {
+          "id": "ScribeRobe_Initiate",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 489,
+        "lastChildBorn": -1,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 47,
+        "name": "Christopher",
+        "lastName": "pun k",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 99.69,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 112
+        },
+        "experience": {
+          "experienceValue": 28310,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            21,
+            -1,
+            -1,
+            5,
+            11
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4292524189,
+        "hairColor": 4284959012,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "faceMask": "f_hair_01",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 72,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 20,
+        "name": "Coffee",
+        "lastName": "Addict",
+        "happiness": {
+          "happinessValue": 91.83
+        },
+        "health": {
+          "healthValue": 115.12,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 11,
+          "maxHealth": 140
+        },
+        "experience": {
+          "experienceValue": 158849,
+          "currentLevel": 11,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "18",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "HuntingRifle_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 123,
+        "lastChildBorn": 546345.85,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 1,
+        "name": "Daft",
+        "lastName": "pun k",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 157.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 16,
+          "maxHealth": 157.5
+        },
+        "experience": {
+          "experienceValue": 287120,
+          "currentLevel": 16,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 72000
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961621,
+        "hairColor": 4285028691,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "12",
+        "faceMask": "f_hair_07",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 72,
+        "lastChildBorn": 585826.74,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 50,
+        "name": "Daisy",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 108,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 108
+        },
+        "experience": {
+          "experienceValue": 10431,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "09",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 272,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 29,
+        "name": "Diana",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 85.83
+        },
+        "health": {
+          "healthValue": 126,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 8,
+          "maxHealth": 126
+        },
+        "experience": {
+          "experienceValue": 87322,
+          "currentLevel": 8,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            21,
+            -1,
+            -1,
+            5,
+            11
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4292521358,
+        "hairColor": 4291535471,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "03",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 72,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 41,
+        "name": "Diane",
+        "lastName": "Lindemann",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 109,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 109
+        },
+        "experience": {
+          "experienceValue": 3661,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            28,
+            -1,
+            -1,
+            6,
+            3
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 2,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 1,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294898393,
+        "hairColor": 4281215008,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "23",
+        "equipedOutfit": {
+          "id": "CombatArmor",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 166,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 12,
+        "name": "Donna",
+        "lastName": "Powell",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 120,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 6,
+          "maxHealth": 120
+        },
+        "experience": {
+          "experienceValue": 59107,
+          "currentLevel": 6,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 3,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4293704094,
+        "hairColor": 4284959012,
+        "outfitColor": 4294888184,
+        "pendingExperienceReward": 0,
+        "hair": "06",
+        "equipedOutfit": {
+          "id": "AllNightware",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 489,
+        "lastChildBorn": 87186.92,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 56,
+        "name": "Dorito",
+        "lastName": "Theresa",
+        "happiness": {
+          "happinessValue": 50
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            27,
+            32,
+            6,
+            3,
+            8,
+            14
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294894550,
+        "hairColor": 4291735864,
+        "outfitColor": 4292051198,
+        "pendingExperienceReward": 0,
+        "hair": "02",
+        "equipedOutfit": {
+          "id": "costume_01",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": -1,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 8,
+        "name": "Douglas",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 143.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 12,
+          "maxHealth": 143.5
+        },
+        "experience": {
+          "experienceValue": 180211,
+          "currentLevel": 12,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 3,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294955959,
+        "hairColor": 4293440262,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "17",
+        "equipedOutfit": {
+          "id": "FormalWear",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "032Pistol",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 166,
+        "lastChildBorn": 498541.91,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 27,
+        "name": "Dyllan",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 95
+        },
+        "health": {
+          "healthValue": 132,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 10,
+          "maxHealth": 132
+        },
+        "experience": {
+          "experienceValue": 128729,
+          "currentLevel": 10,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "16",
+        "faceMask": "f_hair_10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 492,
+        "lastChildBorn": 596498.29,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 16,
+        "name": "Egg",
+        "lastName": "Man",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 107.02,
+          "radiationValue": 4.97,
+          "permaDeath": false,
+          "lastLevelUpdated": 13,
+          "maxHealth": 150
+        },
+        "experience": {
+          "experienceValue": 211596,
+          "currentLevel": 13,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            12,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 4,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 1,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294300089,
+        "hairColor": 4284959012,
+        "outfitColor": 4294921806,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "equipedOutfit": {
+          "id": "SportsfanSpecial",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": -1,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 15,
+        "name": "gerald",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 150.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 14,
+          "maxHealth": 150.5
+        },
+        "experience": {
+          "experienceValue": 233203,
+          "currentLevel": 14,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": -1,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 4,
+        "name": "gerald",
+        "lastName": "2",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 150,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 16,
+          "maxHealth": 150
+        },
+        "experience": {
+          "experienceValue": 284029,
+          "currentLevel": 16,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294955959,
+        "hairColor": 4289023019,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 492,
+        "lastChildBorn": -1,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 38,
+        "name": "Gerald",
+        "lastName": "3 Lindemann",
+        "happiness": {
+          "happinessValue": 76.02
+        },
+        "health": {
+          "healthValue": 125,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 6,
+          "maxHealth": 125
+        },
+        "experience": {
+          "experienceValue": 57464,
+          "currentLevel": 6,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            20,
+            -1,
+            -1,
+            6,
+            3
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4294308035,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "faceMask": "f_hair_10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 492,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 42,
+        "name": "Gerald",
+        "lastName": "4",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 112,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 112
+        },
+        "experience": {
+          "experienceValue": 27990,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            18,
+            -1,
+            -1,
+            6,
+            3
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961621,
+        "hairColor": 4285028691,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "faceMask": "f_hair_06",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 272,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 32,
+        "name": "Gloria",
+        "lastName": "Theresa",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 123,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 7,
+          "maxHealth": 123
+        },
+        "experience": {
+          "experienceValue": 79219,
+          "currentLevel": 7,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            14,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294958024,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "17",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 551,
+        "lastChildBorn": 596498.29,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 25,
+        "name": "Jen",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 136.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 10,
+          "maxHealth": 136.5
+        },
+        "experience": {
+          "experienceValue": 127215,
+          "currentLevel": 10,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            14,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294956991,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "02",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Pistol_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 551,
+        "lastChildBorn": 546293.39,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 48,
+        "name": "Jeremy",
+        "lastName": "D",
+        "happiness": {
+          "happinessValue": 80.12
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            17,
+            10,
+            8,
+            2,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294960860,
+        "hairColor": 4293297969,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "07",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 489,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 10,
+        "name": "joachim",
+        "lastName": "from sabaton",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 165.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 15,
+          "maxHealth": 165.5
+        },
+        "experience": {
+          "experienceValue": 253629,
+          "currentLevel": 15,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294958024,
+        "hairColor": 4284959012,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "17",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 78,
+        "lastChildBorn": 546340.63,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 49,
+        "name": "John",
+        "lastName": "D",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 115.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 4,
+          "maxHealth": 115.5
+        },
+        "experience": {
+          "experienceValue": 30443,
+          "currentLevel": 4,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            17,
+            20,
+            8,
+            2,
+            6,
+            3
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963697,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "22",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 67,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 5,
+        "name": "Jordy",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 156,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 18,
+          "maxHealth": 156
+        },
+        "experience": {
+          "experienceValue": 321932,
+          "currentLevel": 18,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 5,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290087013,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "02",
+        "faceMask": "f_hair_01",
+        "equipedOutfit": {
+          "id": "LabCoat_Advanced",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 551,
+        "lastChildBorn": 158187.58,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 3,
+        "name": "Joyo",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 140,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 11,
+          "maxHealth": 140
+        },
+        "experience": {
+          "experienceValue": 142085,
+          "currentLevel": 11,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 72644.73
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 20940.39
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963697,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "05",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 239,
+        "lastChildBorn": 585587.09,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 43,
+        "name": "Judith",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 112,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 112
+        },
+        "experience": {
+          "experienceValue": 27512,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            25,
+            -1,
+            -1,
+            8,
+            14
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294959306,
+        "hairColor": 4283848802,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 272,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 36,
+        "name": "Kat",
+        "lastName": "Lindemann",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 114,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 4,
+          "maxHealth": 114
+        },
+        "experience": {
+          "experienceValue": 37485,
+          "currentLevel": 4,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            14,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 3,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294958024,
+        "hairColor": 4291535471,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "HandymanJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 166,
+        "lastChildBorn": 585775.8,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 37,
+        "name": "Katherine",
+        "lastName": "Lindemann",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 125,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 6,
+          "maxHealth": 125
+        },
+        "experience": {
+          "experienceValue": 61413,
+          "currentLevel": 6,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            25,
+            -1,
+            -1,
+            8,
+            14
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961094,
+        "hairColor": 4284959012,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 492,
+        "lastChildBorn": 585727.37,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 57,
+        "name": "Keith",
+        "lastName": "Baker",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 108.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 108.5
+        },
+        "experience": {
+          "experienceValue": 14134,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961621,
+        "hairColor": 4289023019,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "02",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 67,
+        "lastChildBorn": -1,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 52,
+        "name": "Kyle",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 108.5,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 108.5
+        },
+        "experience": {
+          "experienceValue": 15673,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            27,
+            37,
+            6,
+            3,
+            19,
+            25
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961094,
+        "hairColor": 4284959012,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 379,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 34,
+        "name": "Lira",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 85.98
+        },
+        "health": {
+          "healthValue": 111,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 111
+        },
+        "experience": {
+          "experienceValue": 27455,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            6,
+            3,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "08",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 489,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 51,
+        "name": "Ludwig",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 108,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 108
+        },
+        "experience": {
+          "experienceValue": 10732,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            21,
+            -1,
+            -1,
+            5,
+            11
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4292524189,
+        "hairColor": 4285028691,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "11",
+        "faceMask": "f_hair_06",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 272,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 46,
+        "name": "Marilyn",
+        "lastName": "Lindemann",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 113,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 113
+        },
+        "experience": {
+          "experienceValue": 17713,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            2,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 6673.93
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294964447,
+        "hairColor": 4291535471,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "12",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 238,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 55,
+        "name": "Matthew",
+        "lastName": "Scott",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 92.31,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 11,
+          "maxHealth": 140
+        },
+        "experience": {
+          "experienceValue": 140841,
+          "currentLevel": 11,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 4,
+              "mod": 0,
+              "exp": 36000
+            },
+            {
+              "value": 3,
+              "mod": 1,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 6,
+              "mod": 0,
+              "exp": 126000
+            },
+            {
+              "value": 4,
+              "mod": 1,
+              "exp": 36000
+            },
+            {
+              "value": 7,
+              "mod": 1,
+              "exp": 201600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4293580212,
+        "hairColor": 4285940014,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "08",
+        "faceMask": "f_hair_05",
+        "equipedOutfit": {
+          "id": "RiotGear",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "PlasmaPistol_Amplified",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equippedPet": {
+          "id": "stbernard_c",
+          "type": "Pet",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false,
+          "extraData": {
+            "uniqueName": "St. Bernard",
+            "bonus": "WastelandJunkBoost",
+            "bonusValue": 28
+          }
+        },
+        "savedRoom": 78,
+        "lastChildBorn": -1,
+        "rarity": "Rare",
+        "deathTime": -1,
+        "daysOnWasteland": 0,
+        "hoursOnWasteland": 3
+      },
+      {
+        "serializeId": 35,
+        "name": "Michael",
+        "lastName": "Afton",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 113,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 113
+        },
+        "experience": {
+          "experienceValue": 16272,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            22,
+            -1,
+            -1,
+            1,
+            14
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294961621,
+        "hairColor": 4293297969,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "01",
+        "faceMask": "f_hair_10",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SniperRifle",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 166,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 14,
+        "name": "Mother",
+        "lastName": "Theresa",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 148,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 13,
+          "maxHealth": 148
+        },
+        "experience": {
+          "experienceValue": 207321,
+          "currentLevel": 13,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294958024,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "12",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 379,
+        "lastChildBorn": 585826.74,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 30,
+        "name": "Pär",
+        "lastName": "From sabaton",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 104.12,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 9,
+          "maxHealth": 129
+        },
+        "experience": {
+          "experienceValue": 99462,
+          "currentLevel": 9,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            10,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294956991,
+        "hairColor": 4284959012,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "09",
+        "faceMask": "f_hair_03",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 123,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 39,
+        "name": "Penis",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 125,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 6,
+          "maxHealth": 125
+        },
+        "experience": {
+          "experienceValue": 58749,
+          "currentLevel": 6,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            13,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 6085.35
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294965454,
+        "hairColor": 4294308035,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "01",
+        "faceMask": "f_hair_05",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "SawedOffShotgun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 238,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 54,
+        "name": "Peter",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 105,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 1,
+          "maxHealth": 105
+        },
+        "experience": {
+          "experienceValue": 0,
+          "currentLevel": 1,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            14,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294958024,
+        "hairColor": 4284959012,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "13",
+        "faceMask": "f_hair_03",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "BBGun_Enhanced",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 166,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 26,
+        "name": "Richard",
+        "lastName": "Kruspe",
+        "happiness": {
+          "happinessValue": 96.83
+        },
+        "health": {
+          "healthValue": 111,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 3,
+          "maxHealth": 111
+        },
+        "experience": {
+          "experienceValue": 26112,
+          "currentLevel": 3,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            1,
+            18,
+            -1,
+            -1,
+            6,
+            3
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 102207.4
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294897386,
+        "hairColor": 4283651161,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "15",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 239,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 13,
+        "name": "Rosa",
+        "lastName": "Parks",
+        "happiness": {
+          "happinessValue": 85.83
+        },
+        "health": {
+          "healthValue": 150,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 15,
+          "maxHealth": 150
+        },
+        "experience": {
+          "experienceValue": 243934,
+          "currentLevel": 15,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 1,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 2,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285552709,
+        "hairColor": 4294967122,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "WandererArmor",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 272,
+        "lastChildBorn": 516524.59,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 11,
+        "name": "sandra",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 119.95,
+          "radiationValue": 6.89,
+          "permaDeath": false,
+          "lastLevelUpdated": 13,
+          "maxHealth": 157
+        },
+        "experience": {
+          "experienceValue": 201548,
+          "currentLevel": 13,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 2,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 2,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 1,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290087013,
+        "hairColor": 4292039478,
+        "outfitColor": 4291467857,
+        "pendingExperienceReward": 0,
+        "hair": "10",
+        "equipedOutfit": {
+          "id": "SoldierSpecial",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "HuntingRifle",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": -1,
+        "lastChildBorn": 449242.44,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 21,
+        "name": "Shaffi",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 135,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 11,
+          "maxHealth": 135
+        },
+        "experience": {
+          "experienceValue": 149238,
+          "currentLevel": 11,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            5,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4290087013,
+        "hairColor": 4292039478,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "04",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 272,
+        "lastChildBorn": 585650.38,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 24,
+        "name": "Shana",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 135,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 11,
+          "maxHealth": 135
+        },
+        "experience": {
+          "experienceValue": 140964,
+          "currentLevel": 11,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            8,
+            11,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294955959,
+        "hairColor": 4292039478,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "07",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 72,
+        "lastChildBorn": 517082.32,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 40,
+        "name": "Sop",
+        "lastName": "2 Lindemann",
+        "happiness": {
+          "happinessValue": 86.83
+        },
+        "health": {
+          "healthValue": 106.18,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 6,
+          "maxHealth": 120
+        },
+        "experience": {
+          "experienceValue": 67184,
+          "currentLevel": 6,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            19,
+            24,
+            -1,
+            -1,
+            8,
+            11
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294955959,
+        "hairColor": 4293054406,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "01",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 72,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 2,
+        "name": "Sophie",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 161,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 17,
+          "maxHealth": 161
+        },
+        "experience": {
+          "experienceValue": 300352,
+          "currentLevel": 17,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 1,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 3,
+              "exp": 14400
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294963697,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "01",
+        "equipedOutfit": {
+          "id": "UtilityJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 67,
+        "lastChildBorn": 546325.31,
+        "rarity": "Normal",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 53,
+        "name": "Spock",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 75
+        },
+        "health": {
+          "healthValue": 108,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 2,
+          "maxHealth": 108
+        },
+        "experience": {
+          "experienceValue": 15779,
+          "currentLevel": 2,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            27,
+            36,
+            6,
+            3,
+            19,
+            14
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4289023019,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "21",
+        "equipedOutfit": {
+          "id": "jumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 379,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 7,
+        "name": "stef",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 76.83
+        },
+        "health": {
+          "healthValue": 154,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 17,
+          "maxHealth": 154
+        },
+        "experience": {
+          "experienceValue": 295674,
+          "currentLevel": 17,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 5,
+              "mod": 3,
+              "exp": 72000
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4285421123,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "faceMask": "f_hair_12",
+        "equipedOutfit": {
+          "id": "UtilityJumpsuit",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 67,
+        "lastChildBorn": -1,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 6,
+        "name": "Stej",
+        "lastName": "",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 144,
+          "radiationValue": 0,
+          "permaDeath": false,
+          "lastLevelUpdated": 14,
+          "maxHealth": 144
+        },
+        "experience": {
+          "experienceValue": 220456,
+          "currentLevel": 14,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3676.04
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 2,
+              "exp": 0
+            },
+            {
+              "value": 1,
+              "mod": 3,
+              "exp": 1392.57
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 72000
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294896868,
+        "hairColor": 4291735864,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "hair": "15",
+        "equipedOutfit": {
+          "id": "ScientistScrubs_Officer",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "Fist",
+          "type": "Weapon",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equippedPet": {
+          "id": "burmilla_l",
+          "type": "Pet",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false,
+          "extraData": {
+            "uniqueName": "Diamond",
+            "bonus": "CheaperCrafting",
+            "bonusValue": 27
+          }
+        },
+        "savedRoom": 611,
+        "lastChildBorn": 585587.09,
+        "rarity": "Common",
+        "deathTime": -1
+      },
+      {
+        "serializeId": 19,
+        "name": "Till",
+        "lastName": "Lindemann",
+        "happiness": {
+          "happinessValue": 100
+        },
+        "health": {
+          "healthValue": 185.22,
+          "radiationValue": 10.87,
+          "permaDeath": false,
+          "lastLevelUpdated": 22,
+          "maxHealth": 232
+        },
+        "experience": {
+          "experienceValue": 433898,
+          "currentLevel": 22,
+          "storage": 0,
+          "accum": 0,
+          "needLvUp": false,
+          "wastelandExperience": 0
+        },
+        "relations": {
+          "relations": [],
+          "partner": -1,
+          "lastPartner": -1,
+          "ascendants": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+          ]
+        },
+        "gender": 2,
+        "stats": {
+          "stats": [
+            {
+              "value": 1,
+              "mod": 0,
+              "exp": 0
+            },
+            {
+              "value": 5,
+              "mod": 0,
+              "exp": 82040.55
+            },
+            {
+              "value": 4,
+              "mod": 2,
+              "exp": 36000
+            },
+            {
+              "value": 7,
+              "mod": 0,
+              "exp": 201600
+            },
+            {
+              "value": 2,
+              "mod": 0,
+              "exp": 3600
+            },
+            {
+              "value": 3,
+              "mod": 0,
+              "exp": 14400
+            },
+            {
+              "value": 4,
+              "mod": 3,
+              "exp": 36000
+            },
+            {
+              "value": 4,
+              "mod": 2,
+              "exp": 36000
+            }
+          ]
+        },
+        "pregnant": false,
+        "babyReady": false,
+        "assigned": false,
+        "sawIncident": false,
+        "WillGoToWasteland": false,
+        "WillBeEvicted": false,
+        "IsEvictedWaitingForFollowers": false,
+        "skinColor": 4294965454,
+        "hairColor": 4294308035,
+        "outfitColor": 4294967295,
+        "pendingExperienceReward": 0,
+        "uniqueData": "SurvivorMale",
+        "hair": "18",
+        "faceMask": "f_hair_12",
+        "equipedOutfit": {
+          "id": "RiotGear_Heavy",
+          "type": "Outfit",
+          "hasBeenAssigned": false,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "equipedWeapon": {
+          "id": "LaserPistol_Rusty",
+          "type": "Weapon",
+          "hasBeenAssigned": true,
+          "hasRandonWeaponBeenAssigned": false
+        },
+        "savedRoom": 67,
+        "lastChildBorn": 546325.31,
+        "rarity": "Rare",
+        "deathTime": -1,
+        "daysOnWasteland": 0,
+        "hoursOnWasteland": 3
+      }
+    ],
     "actors": [
       {
         "characterType": 3,
