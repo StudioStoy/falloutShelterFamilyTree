@@ -1,3 +1,5 @@
+package nl.stoy.fsfamily.domain;
+
 import lombok.Getter;
 import lombok.Setter;
 
@@ -29,7 +31,7 @@ public class Dweller {
 
     @Override
     public String toString() {
-        return "Dweller{" +
+        return "nl.stoy.fsfamily.domain.Dweller{" +
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +

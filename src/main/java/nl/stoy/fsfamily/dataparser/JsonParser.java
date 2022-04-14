@@ -1,20 +1,29 @@
+package nl.stoy.fsfamily.dataparser;
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import nl.stoy.fsfamily.domain.Dweller;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-public class JsonParser {
-    public void parse() {
+public class JsonParser implements DwellerJsonParser {
+    private String path = "";
+
+    public JsonParser(String path) {
+        this.path = path;
+    }
+
+    public List<Dweller> parseDwellers() {
         //JSON parser object to parse read file
         JSONParser jsonParser = new JSONParser();
 
         try {
-            FileReader reader = new FileReader("src/main/data/vault.json");
+            FileReader reader = new FileReader(path);
 
             //Read JSON file
             Object obj = jsonParser.parse(reader);
@@ -41,27 +50,13 @@ public class JsonParser {
 
                 Dweller dweller = new Dweller(id, firstName, lastName, gender, parents);
 
-                System.out.println(dweller);
+
             }
         } catch (IOException | ParseException e) {
             e.printStackTrace();
         }
-    }
 
-//    private static void parseDwellerObject(JSONObject dweller) {
-//        JSONObject dwellerObject = (JSONObject) dweller.get("dwellers");
-//
-//        //Get employee first name
-//        String id = (String) dwellerObject.get("serializeId");
-//        System.out.println(id);
-//
-//        //Get employee last name
-//        String firstName = (String) dwellerObject.get("name");
-//        System.out.println(firstName);
-//
-//        //Get employee website name
-//        String lastName = (String) dwellerObject.get("lastName");
-//        System.out.println(lastName);
-//    }
+        return null;
+    }
 
 }
