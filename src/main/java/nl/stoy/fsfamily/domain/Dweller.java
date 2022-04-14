@@ -35,15 +35,13 @@ public class Dweller {
     public String toString() {
         String str = "";
         if (mother == null && father == null) {
-            str = "\nid= " + id +
-                    ", name= " + firstName + " " + lastName +
-                    ", gender=" + gender;
+            str = "id = " + id +
+                    ", name = " + firstName + " " + lastName + ", gender = " + gender;
         } else {
-            str = "\nid= " + id +
-                    ", name=" + firstName + " " + lastName +
-                    ", gender=" + gender +
-                    ", Father= " +father.getFirstName() + " " +father.getLastName()+
-                    ", Mother= " +mother.getFirstName() + " " +mother.getLastName();
+            str = "id = " + id +
+                    ", name = " + firstName + " " + lastName + ", gender = " + gender +
+                    ", Father = " + father.getFirstName() + " " +father.getLastName()+
+                    ", Mother = " + mother.getFirstName() + " " +mother.getLastName();
         }
         return str;
     }

@@ -19,13 +19,11 @@ public class DwellerJsonParser implements JsonParser {
     }
 
     public List<Dweller> parseDwellers() {
-        //JSON parser object to parse read file
         JSONParser jsonParser = new JSONParser();
 
         try {
             FileReader reader = new FileReader(path);
 
-            //Read JSON file
             Object obj = jsonParser.parse(reader);
 
             JSONObject allInfo = (JSONObject) obj;

@@ -14,6 +14,9 @@ public class Main {
 
         Family family = new Family(dwellers);
 
+        System.out.println(family.findDwellersByName("stej"));
+        System.out.println(family.findDwellersByName("joy"));
         System.out.println(family.findChildrenByParentId(6));
+        System.out.println(family);
     }
 }

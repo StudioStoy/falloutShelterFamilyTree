@@ -2,6 +2,7 @@ package nl.stoy.fsfamily.domain;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 public class Family {
     private List<Dweller> dwellers;
@@ -23,11 +24,8 @@ public class Family {
 
     public List<Dweller> findChildrenByParentId(long id) {
         List<Dweller> children = new ArrayList<>();
-        for (Dweller dweller : dwellers) {
-            boolean isOrphan = false;
-            if (dweller.getParentsId() == null) {
-                isOrphan = true;
-            }
+        for (Dweller dweller : this.dwellers) {
+            boolean isOrphan = dweller.getParentsId() == null;
 
             if (!isOrphan && dweller.getParentsId().contains(id)) {
                 children.add(dweller);
@@ -35,6 +33,18 @@ public class Family {
         }
 
         return children;
+    }
+
+    public List<Dweller> findDwellersByName(String name) {
+        List<Dweller> foundDwellers = new ArrayList<>();
+        for (Dweller dweller : this.dwellers) {
+            String dwellerName = dweller.getFirstName().toLowerCase(Locale.ROOT) + " " + dweller.getLastName().toLowerCase(Locale.ROOT);
+            if (dwellerName.contains(name)) {
+                foundDwellers.add(dweller);
+            }
+        }
+
+        return foundDwellers;
     }
 
     private void findParents(long id) {
@@ -53,6 +63,9 @@ public class Family {
 
     @Override
     public String toString() {
-        return ""+dwellers;
+        StringBuilder stringBuilder = new StringBuilder();
+        dwellers.forEach(dweller -> stringBuilder.append(dweller).append("\n"));
+
+        return stringBuilder.toString();
     }
 }
