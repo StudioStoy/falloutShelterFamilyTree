@@ -22,6 +22,18 @@ public class JsonParser {
             JSONObject dwellersObject = (JSONObject) allInfo.get("dwellers");
             JSONArray dwellers = (JSONArray) dwellersObject.get("dwellers");
 
+            for (int i=0; i<dwellers.size(); i++) {
+                JSONObject dwellerJSON = (JSONObject) dwellers.get(i);
+
+                long id = (long) dwellerJSON.get("serializeId");
+                String firstName = (String) dwellerJSON.get("name");
+                String lastName = (String) dwellerJSON.get("lastName");
+
+
+                System.out.println(id + ": " + firstName + " " + lastName);
+
+                Dweller dweller = new Dweller(id, firstName, lastName)
+            }
         } catch (IOException | ParseException e) {
             e.printStackTrace();
         }

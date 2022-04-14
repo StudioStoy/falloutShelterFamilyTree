@@ -5,13 +5,13 @@ import java.util.List;
 
 @Getter @Setter
 public class Dweller {
-    private int id;
+    private long id;
     private String firstName;
     private String lastName;
     private String gender;
     private List<Integer> parents;
 
-    public Dweller(int id, String firstName, String lastName, int gender, List<Integer> parents) {
+    public Dweller(long id, String firstName, String lastName, int gender, List<Integer> parents) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
