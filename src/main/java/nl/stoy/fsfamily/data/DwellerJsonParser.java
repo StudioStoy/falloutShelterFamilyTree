@@ -1,4 +1,4 @@
-package nl.stoy.fsfamily.dataparser;
+package nl.stoy.fsfamily.data;
 
 import java.io.FileReader;
 import java.io.IOException;
