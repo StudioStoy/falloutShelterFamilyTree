@@ -1,13 +1,12 @@
 package nl.stoy.fsfamily;
 
-import nl.stoy.fsfamily.dataparser.DwellerJsonParser;
-import nl.stoy.fsfamily.dataparser.JsonParser;
+import nl.stoy.fsfamily.data.DwellerJsonParser;
+import nl.stoy.fsfamily.data.JsonParser;
 import nl.stoy.fsfamily.domain.Dweller;
 import nl.stoy.fsfamily.domain.Family;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.nio.file.Path;
 import java.util.List;
 
 @SpringBootApplication
