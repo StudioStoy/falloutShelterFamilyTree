@@ -13,14 +13,5 @@ import java.util.List;
 public class FSFamilyApplication {
     public static void main(String[] args) {
         SpringApplication.run(FSFamilyApplication.class, args);
-        JsonParser jsonParser = new DwellerJsonParser("src/main/java/nl/stoy/fsfamily/data/vault.json");
-        List<Dweller> dwellers = jsonParser.parseDwellers();
-
-        Family family = new Family(dwellers);
-
-        System.out.println(family.findDwellersByName("stej"));
-        System.out.println(family.findDwellersByName("joy"));
-        System.out.println(family.findChildrenByParentId(6));
-        System.out.println(family);
     }
 }

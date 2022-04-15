@@ -10,19 +10,19 @@ import java.util.List;
 
 @Service
 public class DwellerService {
+    private Family family;
 
     public DwellerService() {
-
+        String path = "src/main/java/nl/stoy/fsfamily/data/vault.json";
+        JsonParser jsonParser = new DwellerJsonParser(path);
+        family = new Family(jsonParser.parseDwellers());
     }
 
     public List<Dweller> getAllDwellers() {
-        String path = "src/main/java/nl/stoy/fsfamily/data/vault.json";
-        JsonParser jsonParser = new DwellerJsonParser(path);
-        Family family = new Family(jsonParser.parseDwellers());
-
         return family.getDwellers();
     }
 
-
-
+    public List<Dweller> getDwellerFamilyById(long id) {
+        return family.findChildrenByParentId(id);
+    }
 }
