@@ -1,9 +1,12 @@
 package nl.stoy.fsfamily.domain;
 
+import lombok.Getter;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
+@Getter
 public class Family {
     private List<Dweller> dwellers;
 
