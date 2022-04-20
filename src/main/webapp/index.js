@@ -1,40 +1,48 @@
+let URL = "http://localhost:8080/dweller"
 
-// This server is used to run the app on heroku
-const express = require('express');
-const path = require('path');
-const port = process.env.PORT || 3000;
-const app = express();
+fetch(URL, {
+    method:"GET"
+})
+    .then(res => res.json())
+    .then(data => {
+        handleDwellerData(data)
+    })
+    .catch(error => console.log(error));
 
-app.use(express.static(__dirname));
-import fetch from 'node-fetch';
+function handleDwellerData(dwellerData) {
+    let dwellerNodeList = [];
 
-// The router overwrites this
-app.get('*', function (request, response) {
-    response.sendFile(path.resolve(__dirname, 'index.html'));
-});
+    for (let dweller of dwellerData) {
+        let dwellerName = dweller.firstName + " " + dweller.lastName;
+        let dwellerId = dweller.id;
+        let dwellerMotherId;
+        let dwellerFatherId;
+        let dwellerPartners;
 
-app.listen(port);
-console.log("server started on port " + port);
+        if (dweller.parentIds !== null) {
+            dwellerMotherId = dweller.mother.id;
+            dwellerFatherId = dweller.father.id;
+        }
 
-async function getInfo(){
-    let response = await fetch("dweller", {method: "GET"})
+        if (dweller.partnerIds != null) {
+            dwellerPartners = dweller.partnerIds;
+        }
 
-    if (response.status === 200){
-        let info = await response.json()
-        console.log(info)
+        let dwellerNode = {
+            id: dwellerId,
+            pids: dwellerPartners,
+            mid: dwellerMotherId,
+            fid: dwellerFatherId,
+            name: dwellerName
+        }
+
+        dwellerNodeList.push(dwellerNode);
     }
+
+    new FamilyTree(document.getElementById("tree"), {
+        nodeBinding: {
+            field_0: "name"
+        },
+        nodes: dwellerNodeList
+    });
 }
-
-getInfo()
-
-//
-// var tree = new FamilyTree(document.getElementById("tree"), {
-//     nodeBinding: {
-//         field_0: "name"
-//     },
-//     nodes: [
-//         { id: 1, pids: [2], name: "Amber McKenzie" },
-//         { id: 2, pids: [1], name: "Ava Field" },
-//         { id: 3, mid: 1, fid: 2, name: "Peter Stevens" }
-//     ]
-// });

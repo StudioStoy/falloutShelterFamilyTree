@@ -28,9 +28,9 @@ public class Family {
     public List<Dweller> findChildrenByParentId(long id) {
         List<Dweller> children = new ArrayList<>();
         for (Dweller dweller : this.dwellers) {
-            boolean isOrphan = dweller.getParentsId() == null;
+            boolean isOrphan = dweller.getParentIds() == null;
 
-            if (!isOrphan && dweller.getParentsId().contains(id)) {
+            if (!isOrphan && dweller.getParentIds().contains(id)) {
                 children.add(dweller);
             }
         }
@@ -52,16 +52,32 @@ public class Family {
 
     private void findParents(long id) {
         Dweller dweller = findById(id);
-        if (dweller.getParentsId() != null) {
-            dweller.setFather(findById(dweller.getParentsId().get(0)));
-            dweller.setMother(findById(dweller.getParentsId().get(1)));
+        if (dweller.getParentIds() != null) {
+            dweller.setFather(findById(dweller.getParentIds().get(0)));
+            dweller.setMother(findById(dweller.getParentIds().get(1)));
+        }
+    }
+
+    private void findPartners() {
+        for (Dweller dweller : this.dwellers) {
+            Dweller mother = dweller.getMother();
+            Dweller father = dweller.getFather();
+
+            if (mother != null && father != null) {
+                if (!mother.getPartnerIds().contains(father.getId()) && !father.getPartnerIds().contains(mother.getId())) {
+                    father.addPartner(mother.getId());
+                    mother.addPartner(father.getId());
+                }
+            }
         }
     }
 
     private void createFamilyTies() {
-        for (Dweller dweller : dwellers) {
-            findParents(dweller.getId());
+        for (Dweller dweller : this.dwellers) {
+            this.findParents(dweller.getId());
         }
+
+        this.findPartners();
     }
 
     @Override
