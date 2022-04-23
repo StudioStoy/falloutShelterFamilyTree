@@ -23,9 +23,7 @@ public class DwellerJsonParser implements JsonParser {
 
         try {
             FileReader reader = new FileReader(path);
-
             Object obj = jsonParser.parse(reader);
-
             JSONObject allInfo = (JSONObject) obj;
 
             JSONObject dwellersObject = (JSONObject) allInfo.get("dwellers");
